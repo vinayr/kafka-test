@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "kafka-node": "^2.3.0"
+    "kafka-node": "^4.1.3"
   }
 }
